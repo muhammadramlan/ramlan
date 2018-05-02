@@ -1,0 +1,2 @@
+# ramlan
+AMD
